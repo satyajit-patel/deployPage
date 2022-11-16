@@ -2,7 +2,7 @@ let yesButton = document.getElementById("yes");
 let noButton = document.getElementById("no");
 
 function submit() {
-    window.alert("congratulation you got a date with me..");
+    window.alert("congratulation you got a date with satyajit..");
 }
 yesButton.addEventListener("click", submit);
 noButton.addEventListener("click", submit);
